@@ -32,9 +32,6 @@ Celular Android compatible con ARCore ([ver lista de dispositivos](https://devel
 
 > Proyecto desarrollado como parte de la carrera de Ingeniería en Software, Universidad Politécnica de Pachuca.
 
-https://github.com/user-attachments/assets/3aaf133a-1e4a-42eb-a68e-c808a953f919
-
-
 
 **Camilo Hernández Hernández** · [GitHub](https://github.com/Camilohh12) · [LinkedIn](www.linkedin.com/in/camilo-hernandez-hernandez-643308329)
 
